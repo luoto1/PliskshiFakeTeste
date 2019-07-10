@@ -10,5 +10,7 @@
 
 	div#textoFodase {
 		font-family: "arial" ;
-		width: 15pt ;
+		font-size: 10pt ;
+		text-align: middle ;
+		color: #ffffff ;
 	}
